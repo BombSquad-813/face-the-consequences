@@ -1,0 +1,4 @@
+known_faces/
+rf_fingerprints.json
+*.pyc
+__pycache__/
